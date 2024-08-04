@@ -19,7 +19,7 @@ function CreateTicket() {
                 </div>
                 
                 <div className="col p-4">
-                    <p style={{fontSize:"1.2rem"}} > <i class="fa-regular fa-user"></i> Your Zerodha Account</p>
+                    <p style={{fontSize:"1.2rem"}} > <i class="fa-regular fa-user"></i> Your stockEx Account</p>
                     <div style={{lineHeight:"2.0"}}>
                     <a href="">Login credentials</a> <br />
                     <a href="">Your Profile</a><br />

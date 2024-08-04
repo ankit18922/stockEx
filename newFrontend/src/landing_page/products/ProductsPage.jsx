@@ -18,7 +18,7 @@ function PricingPage() {
 
           <RightSection imageURL="media\images\console.png"
           productName="Console"
-          productDescription="The central dashboard for your Zerodha account. Gain insights into your trades and investments with in-depth reports and visualisations." 
+          productDescription="The central dashboard for your stockEx account. Gain insights into your trades and investments with in-depth reports and visualisations." 
           learnMore="" />
 
           <LeftSection imageURL="media\images\coin.png" productName="Coin" 
@@ -41,7 +41,7 @@ function PricingPage() {
           googlePlay="" 
           appStore="" />
 
-          <p className='p-5'>Want to know more about our technology stack? Check out the <a href="">Zerodha.tech</a> blog.</p>
+          <p className='p-5'>Want to know more about our technology stack? Check out the <a href="">stockEx.tech</a> blog.</p>
 
           <Universe/>
         </>

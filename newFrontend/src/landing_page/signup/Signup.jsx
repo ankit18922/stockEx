@@ -22,7 +22,7 @@ function SignUp() {
                 </div>
             </div>
             <div className="row text-muted">
-                <p>I authorise Zerodha to contact me even if my number is registered on DND. I authorise Zerodha to fetch my KYC information from the C-KYC registry with my PAN. Please visit this article to know more.
+                <p>I authorise stockEx to contact me even if my number is registered on DND. I authorise stockEx to fetch my KYC information from the C-KYC registry with my PAN. Please visit this article to know more.
                 </p>
                 <p>
                 If you are looking to open a HUF, Corporate, Partnership, or NRI account, you have to use the offline forms. For help, click here.</p>
